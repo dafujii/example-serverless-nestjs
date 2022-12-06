@@ -34,7 +34,7 @@
     "rxjs": "^6.5.4"
   },
   "devDependencies": {
-    "@nestjs/cli": "^7.0.0",
+    "@nestjs/cli": "^9.1.5",
     "@nestjs/schematics": "^7.0.0",
     "@nestjs/testing": "^7.0.0",
     "@types/aws-serverless-express": "^3.3.3",
